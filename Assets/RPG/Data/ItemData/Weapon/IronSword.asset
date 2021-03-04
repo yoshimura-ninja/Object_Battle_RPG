@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f443c63923209d241978aaafd8efd097, type: 3}
+  m_Name: IronSword
+  m_EditorClassIdentifier: 
+  itemType: 4
+  kanjiName: "\u30A2\u30A4\u30A2\u30F3\u30BD\u30FC\u30C9"
+  hiraganaName: "\u3042\u3044\u3042\u3093\u305D\u30FC\u3069"
+  information: "\u9244\u306E\u5263"
+  amount: 20
+  itemObject: {fileID: 6754666945877319388, guid: 1326b03c0f8db0a45b96347110a331b1,
+    type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f443c63923209d241978aaafd8efd097, type: 3}
+  m_Name: BlueSword
+  m_EditorClassIdentifier: 
+  itemType: 4
+  kanjiName: "\u30D6\u30EB\u30FC\u30BD\u30FC\u30C9"
+  hiraganaName: "\u3076\u308B\u30FC\u305D\u30FC\u3069"
+  information: "\u3061\u3087\u3063\u3068\u5F37\u3044\u9752\u3044\u5263"
+  amount: 50
+  itemObject: {fileID: 6754666945877319388, guid: d603a1bee21b6024cb28434d6baac851,
+    type: 3}

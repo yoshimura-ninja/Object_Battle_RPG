@@ -1,0 +1,17 @@
+sceneSetups:
+- path: Assets/RPG/Scenes/Village.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/RPG/Scenes/WorldMap.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/RPG/Scenes/Battle.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/RPG/Scenes/StartGame.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0

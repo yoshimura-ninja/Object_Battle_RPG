@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d23ec4a96378624e8768612aa2d58f5, type: 3}
+  m_Name: FreeLichHP
+  m_EditorClassIdentifier: 
+  characterName: "\u30C7\u30D3\u30EB\u69CD\u5175"
+  isPoisonState: 0
+  isNumbnessState: 0
+  level: 5
+  maxHp: 300
+  hp: 300
+  maxMp: 100
+  mp: 100
+  agility: 1
+  power: 13
+  strikingStrength: 20
+  magicPower: 30
+  skillList:
+  - {fileID: 11400000, guid: 8c61571af5b90d34bba9a85e49e55351, type: 2}
+  - {fileID: 11400000, guid: ef6f6eca0821e27458863ae38627b5d1, type: 2}
+  - {fileID: 11400000, guid: 5e11942582fcee7428c81d740c896d8f, type: 2}
+  - {fileID: 11400000, guid: 022d352c18926914693b551c15c50782, type: 2}
+  gettingExperience: 80
+  gettingMoney: 80
+  dropItemDictionary:
+    m_keys: []
+    m_values: 

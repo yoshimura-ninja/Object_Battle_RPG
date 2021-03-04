@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d23ec4a96378624e8768612aa2d58f5, type: 3}
+  m_Name: GruntHP
+  m_EditorClassIdentifier: 
+  characterName: "\u30B4\u30D6\u30EA\u30F3\u6226\u58EB"
+  isPoisonState: 0
+  isNumbnessState: 0
+  level: 1
+  maxHp: 200
+  hp: 200
+  maxMp: 0
+  mp: 0
+  agility: 5
+  power: 30
+  strikingStrength: 30
+  magicPower: 10
+  skillList:
+  - {fileID: 11400000, guid: 8c61571af5b90d34bba9a85e49e55351, type: 2}
+  - {fileID: 11400000, guid: ef6f6eca0821e27458863ae38627b5d1, type: 2}
+  gettingExperience: 50
+  gettingMoney: 50
+  dropItemDictionary:
+    m_keys:
+    - {fileID: 11400000, guid: 6f073d51e6e0aef438ee84a74b849682, type: 2}
+    - {fileID: 11400000, guid: 063334868dd73c9428f61acd93e90826, type: 2}
+    m_values: 0000000064000000

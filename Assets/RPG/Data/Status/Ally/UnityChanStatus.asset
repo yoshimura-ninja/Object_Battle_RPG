@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2217ce549292f240a52399579f78970, type: 3}
+  m_Name: UnityChanStatus
+  m_EditorClassIdentifier: 
+  characterName: UnityChan
+  isPoisonState: 0
+  isNumbnessState: 0
+  level: 1
+  maxHp: 100
+  hp: 100
+  maxMp: 50
+  mp: 50
+  agility: 10
+  power: 100
+  strikingStrength: 20
+  magicPower: 10
+  skillList:
+  - {fileID: 11400000, guid: 8c61571af5b90d34bba9a85e49e55351, type: 2}
+  - {fileID: 11400000, guid: ef6f6eca0821e27458863ae38627b5d1, type: 2}
+  - {fileID: 11400000, guid: 96eecd0eeafd1f445b65f75f19821618, type: 2}
+  - {fileID: 11400000, guid: 022d352c18926914693b551c15c50782, type: 2}
+  - {fileID: 11400000, guid: a165348fcd5a3af4f86924c0314f553b, type: 2}
+  - {fileID: 11400000, guid: f0717cf07f99a484ea62dab52ad8f758, type: 2}
+  earnedExperience: 80
+  equipWeapon: {fileID: 11400000, guid: b4a519033615b7f419dd8e21bd226811, type: 2}
+  equipArmor: {fileID: 0}
+  itemDictionary:
+    m_keys:
+    - {fileID: 11400000, guid: c984b02fde99a034db6596f3f8dee113, type: 2}
+    - {fileID: 11400000, guid: d68ca1029315b074e9b91946fc069254, type: 2}
+    - {fileID: 11400000, guid: 063334868dd73c9428f61acd93e90826, type: 2}
+    - {fileID: 11400000, guid: 79f004d89846fba47b22080640873adb, type: 2}
+    - {fileID: 11400000, guid: b3b44beb50c43004b85a1eb3f057bcb4, type: 2}
+    - {fileID: 11400000, guid: 6f073d51e6e0aef438ee84a74b849682, type: 2}
+    - {fileID: 11400000, guid: b4a519033615b7f419dd8e21bd226811, type: 2}
+    m_values: 010000000a0000000a0000000a0000000a0000000200000001000000
+  levelUpData: {fileID: 11400000, guid: 0fbf0f0b1ce4c6049885df7ec2f442b5, type: 2}

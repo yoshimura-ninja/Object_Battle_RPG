@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f443c63923209d241978aaafd8efd097, type: 3}
+  m_Name: Armor1
+  m_EditorClassIdentifier: 
+  itemType: 7
+  kanjiName: "\u666E\u901A\u306E\u93A7"
+  hiraganaName: "\u3075\u3064\u3046\u306E\u3088\u308D\u3044"
+  information: "\u3069\u3053\u3067\u3082\u624B\u306B\u5165\u308B\u93A7"
+  amount: 10
