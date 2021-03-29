@@ -7,7 +7,7 @@ RPGチックな簡単なアプリゲームです。
 
 # Usage
  
-リポジトリ内に存在する「Object_Battle_RPG_android.apk」をAndroid端末にInstallしてゲームを開始してください。
+リポジトリ内に存在する「Object_Battle_RPG.apk」をAndroid端末にInstallしてゲームを開始してください。
 
 # Author
  
